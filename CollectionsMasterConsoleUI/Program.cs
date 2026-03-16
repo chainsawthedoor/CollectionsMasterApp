@@ -22,7 +22,7 @@ namespace CollectionsMasterConsoleUI
             //TODO: Print the first number of the array
             Console.WriteLine(numbers[0]);
             //TODO: Print the last number of the array
-            Console.WriteLine(numbers[50]);
+            Console.WriteLine(numbers[numbers.Length - 1]);
 
             Console.WriteLine("All Numbers Original");
             //UNCOMMENT this method to print out your numbers from arrays or lists
