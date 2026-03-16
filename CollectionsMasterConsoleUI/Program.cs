@@ -41,6 +41,7 @@ namespace CollectionsMasterConsoleUI
             Console.WriteLine("All Numbers Reversed:");
 
             Console.WriteLine("---------REVERSE CUSTOM------------");
+            ReverseArray(numbers);
             
             NumberPrinter(numbers);
             
